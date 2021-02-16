@@ -1,0 +1,23 @@
+{
+  "name": "Crystal-Collector",
+  "version": "1.0.0",
+  "description": "This is a simple game built while learning coding. It employs the use of Bootstrap as well as JQuery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattVanZoeren/Crystal-Collector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattVanZoeren/Crystal-Collector/issues"
+  },
+  "homepage": "https://github.com/MattVanZoeren/Crystal-Collector#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
